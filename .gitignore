@@ -3,3 +3,6 @@ __pycache__/
 *.pkl
 .ipynb_checkpoints/
 models/
+# Dataset
+dataset/Fake.csv
+dataset/True.csv
